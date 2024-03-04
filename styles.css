@@ -1,0 +1,88 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color:#a7ebaa;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:center;
+    padding: 20px;
+}
+
+.card {
+    width: 200px;
+    margin: 20px;
+    padding: 20px;
+    border: 5px solid #1d7937;
+    border-radius: 5px;
+    background-color: #ffffff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s ease;
+    cursor:pointer;
+}
+
+.card:hover {
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4);
+    background-color:#ecebe3;
+}
+
+.card img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+
+.card h2 {
+    margin-top: 10px;
+    font-size: 1.5rem;
+}
+
+.card p {
+    margin-top: 10px;
+    font-size: 1rem;
+    color: #666;
+}
+
+.modlist {
+    font-size: 35px;
+    margin:auto;
+    width:50%;
+    text-align:center;
+}
+
+.header {
+    width: 50%;
+    margin:auto;
+    text-align:center;
+}
+
+.download {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh; /* Optional: To center vertically */
+}
+
+a {
+    text-decoration: none;
+    margin-bottom:50px;
+}
+
+.download button {
+    margin: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    background-color: #4CAF50;
+    color: white;
+    border-radius: 8px;
+    cursor: pointer;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.download button:hover {
+    background-color: #45a049;
+}

@@ -1,0 +1,278 @@
+[
+    {
+        "title": "Additional Lanterns",
+        "image": "assets/additional_lanterns.png",
+        "description": "Additional Lanterns adds many new lanterns with different colors and materials! Lanterns can be turned on and off using an empty hand or with redstone.",
+        "link": "https://www.curseforge.com/minecraft/mc-mods/additional-lanterns"
+    },
+    {
+        "title": "Alex's Mobs",
+        "image": "assets/alexs_mobs.png",
+        "description": " Alex's Mobs is a Forge mod that adds 89 new mobs to Minecraft.",
+        "link": "https://www.curseforge.com/minecraft/mc-mods/alexs-mobs"
+    },
+    {
+        "title": "Applied Energistics 2",
+        "image": "assets/ae2.png",
+        "description": "Applied Energistics 2 (AE2) is a comprehensive mod for Minecraft that introduces a unique approach to in-game inventory management.",
+        "link": "https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2"
+    },
+    {
+        "title": "Aquaculture 2",
+        "image": "assets/aquaculture2.png",
+        "description": "Aquaculture 2 expands the fishing system in Minecraft with over 30 new fish to catch either with a rod (any modded or vanilla rod will work!) or found swimming in the wild.",
+        "link": "https://www.curseforge.com/minecraft/mc-mods/aquaculture"
+    },
+    {
+        "title": "Biomes O' Plenty",
+        "image": "assets/bop.png",
+        "description": "Biomes O' Plenty is an expansive biome mod for Minecraft that adds a slew of new, unique biomes to the Overworld, Nether, and End! ",
+        "link": "https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty"
+    },
+    {
+        "title": "Canary",
+        "image": "assets/canary.png",
+        "description": "Canary is a general performance optimization mod and unofficial fork of Lithium mod for Minecraft Forge.",
+        "link": "https://www.curseforge.com/minecraft/mc-mods/canary"
+    },
+    {
+        "title": "Create",
+        "image": "assets/create.png",
+        "description": "Welcome to Create, a mod offering a variety of tools and blocks for Building, Decoration and Aesthetic Automation.",
+        "link": "https://www.curseforge.com/minecraft/mc-mods/create"
+    },
+    {
+        "title": "Customizable Elytra",
+        "image": "assets/custom_elytra.gif",
+        "description": "Allows Elytra to be dyed and have banners placed onto them, in the same way as leather armor and shields.",
+        "link": "https://www.curseforge.com/minecraft/mc-mods/customizable-elytra"
+    },
+    {
+        "title": "Entity Culling Fabric/Forge",
+        "image": "assets/entity_culling.png",
+        "description": "Minecraft skips rendering things that are behind you, so why is it rendering everything that you still can't see because of a wall in the way?",
+        "link": "https://www.curseforge.com/minecraft/mc-mods/entityculling"
+    },
+    {
+        "title": "GraveStone Mod",
+        "image": "assets/gravestone_mod.png",
+        "description": "Every time you die, a grave is placed at your position. To retrieve your items just break the grave.",
+        "link": "https://www.curseforge.com/minecraft/mc-mods/gravestone-mod"
+    },
+    {
+        "title": "Iron Furnaces",
+        "image": "assets/iron_furnaces.png",
+        "description": "Maximize smelting efficiency with unparalleled speed, reconfigurable sides, augments for smoking and blasting, and much more.",
+        "link": "https://www.curseforge.com/minecraft/mc-mods/iron-furnaces"
+    },
+    {
+        "title": "Just Enough Items",
+        "image": "assets/jei.jpg",
+        "description": "JEI is an item and recipe viewing mod for Minecraft, built from the ground up for stability and performance.",
+        "link": "https://www.curseforge.com/minecraft/mc-mods/jei"
+    },
+    {
+        "title": "Macaw's Bridges",
+        "image": "assets/mc_bridges.jpg",
+        "description": "This simple mod adds a variety of bridges.",
+        "link": "https://www.curseforge.com/minecraft/mc-mods/macaws-bridges"
+    },
+    {
+        "title": "Macaw's Bridges - Biomes O' Plenty",
+        "image": "assets/mc_bridges_bop.png",
+        "description": "This mod adds compatibility between Macaw's Bridges and Biome O' Plenty",
+        "link": "https://www.curseforge.com/minecraft/mc-mods/macaws-bridges-biome-o-plenty"
+    },
+    {
+        "title": "Macaw's Doors",
+        "image": "assets/mc_doors.jpg",
+        "description": "This mod gives you the opportunity to make vanila doors with every wood color.",
+        "link": "https://www.curseforge.com/minecraft/mc-mods/macaws-doors"
+    },
+    {
+        "title": "Macaw's Fences - Biomes O' Plenty",
+        "image": "assets/mc_fences_bop.png",
+        "description": "This mod adds compatibility between Macaw's Fences and Biome O' Plenty",
+        "link": "https://www.curseforge.com/minecraft/mc-mods/macaws-fences-biomes-o-plenty"
+    },
+    {
+        "title": "Macaw's Fences and Walls",
+        "image": "assets/mc_fences.png",
+        "description": "This mod adds new Wooden fences, gates, Stone walls, stone gates, special wired fences which do damage.",
+        "link": "https://www.curseforge.com/minecraft/mc-mods/macaws-fences-and-walls"
+    },
+    {
+        "title": "Macaw's Furniture",
+        "image": "assets/mc_furniture.png",
+        "description": "Macaw's Furniture focuses on different styles of furniture and customization.",
+        "link": "https://www.curseforge.com/minecraft/mc-mods/macaws-furniture"
+    },
+    {
+        "title": "Macaw's Furniture - Biomes O' Plenty",
+        "image": "assets/mc_furniture_bop.png",
+        "description": "This mod adds compatibility between Macaw's Furnitures and Biome O' Plenty",
+        "link": "https://www.curseforge.com/minecraft/mc-mods/macaws-furnitures-biomes-o-plenty"
+    },
+    {
+        "title": "Macaw's Lights and Lamps",
+        "image": "assets/mc_lamps.png",
+        "description": "This very simple mod adds new light sources like: Tiki Torches, Street Lamp Posts, and Ceiling Lights",
+        "link": "https://www.curseforge.com/minecraft/mc-mods/macaws-lights-and-lamps"
+    },
+    {
+        "title": "Macaw's Paintings",
+        "image": "assets/mc_paintings.png",
+        "description": "This mod adds 46 paintings, with a vanila fitting style.",
+        "link": "https://www.curseforge.com/minecraft/mc-mods/macaws-paintings"
+    },
+    {
+        "title": "Macaw's Paths and Pavings",
+        "image": "assets/mc_paths.png",
+        "description": "This Macaw's mod is another addition to the Macaw's Mod series, the first version adds wooden paths and 6 pavings.",
+        "link": "https://www.curseforge.com/minecraft/mc-mods/macaws-paths-and-pavings"
+    },
+    {
+        "title": "Macaw's Roofs",
+        "image": "assets/mc_roofs.jpg",
+        "description": "Macaw's Roofs mod includes many types of new stuff : Roofs, Steep Roofs, Lower Roofs, Awnings, Top Roofs, Rain Gutters and a lot more!",
+        "link": "https://www.curseforge.com/minecraft/mc-mods/macaws-roofs"
+    },
+    {
+        "title": "Macaw's Roofs - Biomes O' Plenty",
+        "image": "assets/mc_roofs_bop.png",
+        "description": "This mod adds compatibility between Macaw's Roofs and Biome O' Plenty",
+        "link": "https://www.curseforge.com/minecraft/mc-mods/macaws-roofs-biomes-o-plenty"
+    },
+    {
+        "title": "Macaw's Trapdoors",
+        "image": "assets/mc_trapdoors.jpg",
+        "description": "Macaw's Trapdoor adds vanila trapdoors in every plank variation and it adds new trapdoors too.",
+        "link": "https://www.curseforge.com/minecraft/mc-mods/macaws-trapdoors"
+    },
+    {
+        "title": "Macaw's Windows",
+        "image": "assets/mc_windows.png",
+        "description": "This Minecraft Window mod is all about windows, it adds lots of windows",
+        "link": "https://www.curseforge.com/minecraft/mc-mods/macaws-windows"
+    },
+    {
+        "title": "Rubidium",
+        "image": "assets/rubidium.jpg",
+        "description": "Rubidium is an Unofficial Fork of CaffeineMC's Sodium, made to work with Forge Mod Loader.",
+        "link": "https://www.curseforge.com/minecraft/mc-mods/rubidium"
+    },
+    {
+        "title": "Saturn",
+        "image": "assets/saturn.png",
+        "description": "Saturn aims on optimizing memory usage in a lot of ways, such as fixing in-game memory leaks, reducing GC heap and more",
+        "link": "https://www.curseforge.com/minecraft/mc-mods/saturn"
+    },
+    {
+        "title": "Simply Light",
+        "image": "assets/simply_light.png",
+        "description": "Simply Light is a Lighting mod with a simplistic design. Modern look and feel with an architecture view in mind.",
+        "link": "https://www.curseforge.com/minecraft/mc-mods/simply-light"
+    },
+    {
+        "title": "Traveler's Backpack",
+        "image": "assets/tb.gif",
+        "description": "Traveler's Backpack is a Minecraft mod, which adds backpacks",
+        "link": "https://www.curseforge.com/minecraft/mc-mods/travelers-backpack"
+    },
+    {
+        "title": "WTHIT",
+        "image": "assets/wthit.png",
+        "description": "WTHIT is a mod that adds an ingame tooltip with information about what block (or fluid) the player is looking at.",
+        "link": "https://www.curseforge.com/minecraft/mc-mods/wthit-forge"
+    },
+    {
+        "title": "Beautify!",
+        "image": "assets/beautify.png",
+        "description": "Beautify is a client and serverside deco-mod that adds lots of vanilla-styled ways to spice up your builds with custom models.",
+        "link": "https://www.curseforge.com/minecraft/mc-mods/beautify-decorate"
+    },
+    {
+        "title": "Farmer's Delight",
+        "image": "assets/farmers_delight.png",
+        "description": "Farmer's Delight is a mod that gently expands upon farming and cooking in Minecraft.",
+        "link": "https://www.curseforge.com/minecraft/mc-mods/farmers-delight"
+    },
+    {
+        "title": "Immersive Engineering",
+        "image": "assets/immersive_engineering.png",
+        "description": "Immersive Engineering is a tech mod with a certain charm, based on the ideas and concepts, and with most assets created by Damien Hazard.",
+        "link": "https://www.curseforge.com/minecraft/mc-mods/immersive-engineering"
+    },
+    {
+        "title": "Ok Zoomer",
+        "image": "assets/ok_zoomer.png",
+        "description": "Ok Zoomer is a mod that adds a configurable feature-packed zoom key, which allows for zooming. By default, the zoom key is bound to C",
+        "link": "https://www.curseforge.com/minecraft/mc-mods/ok-zoomer"
+    },
+    {
+        "title": "Yung's Better Desert Temples",
+        "image": "assets/y_dtemple.png",
+        "description": "The ultimate upgrade to Minecraft's desert temples! YUNG's Better Desert Temples redesigns vanilla desert temples to be way more exciting, adding a variety of new puzzles, traps, & parkour challenges. ",
+        "link": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-desert-temples"
+    },
+    {
+        "title": "Yung's Better Dungeons",
+        "image": "assets/y_dungeon.png",
+        "description": " A complete redesign of Minecraft's dungeons like never before. YUNG's Better Dungeons redesigns vanilla dungeons while also adding new dungeons",
+        "link": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons"
+    },
+    {
+        "title": "Yung's Better End Island",
+        "image": "assets/y_endisland.png",
+        "description": "An overhaul of the main End Island where the dragon fight takes place!",
+        "link": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-end-island"
+    },
+    {
+        "title": "Yung's Better Jungle Temples",
+        "image": "assets/y_jtemple.png",
+        "description": "A complete overhaul of Minecraft's Jungle Temples!",
+        "link": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-jungle-temples"
+    },
+    {
+        "title": "Yung's Better Mineshafts",
+        "image": "assets/y_mineshafts.png",
+        "description": "This mod completely revamps vanilla abandoned mineshafts, changing them from boring straight lines into dynamic, varied webs of tunnels.",
+        "link": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-forge"
+    },
+    {
+        "title": "Yung's Better Nether Fortresses",
+        "image": "assets/y_nf.png",
+        "description": "A complete overhaul of Minecraft's Nether fortresses!",
+        "link": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-nether-fortresses"
+    },
+    {
+        "title": "Yung's Better Ocean Monuments",
+        "image": "assets/y_monuments.png",
+        "description": " A complete overhaul of Minecraft's ocean monuments!",
+        "link": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-ocean-monuments"
+    },
+    {
+        "title": "Yung's Better Strongholds",
+        "image": "assets/y_strongholds.png",
+        "description": "A complete redesign of Minecraft strongholds like never before, making them much more complex and exciting while still staying true to vanilla themes.",
+        "link": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds"
+    },
+    {
+        "title": "Yung's Better Witch Huts",
+        "image": "assets/y_wh.png",
+        "description": "An upgrade to witch huts! This mod adds multiple new hut variants that can spawn as well as a witch's circle.",
+        "link": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-witch-huts"
+    },
+    {
+        "title": "Yung's Bridges",
+        "image": "assets/y_bridges.png",
+        "description": "YUNG's Bridges is the first Minecraft mod to ever add naturally generated bridges to the game.",
+        "link": "https://www.curseforge.com/minecraft/mc-mods/yungs-bridges"
+    },
+    {
+        "title": "Yung's Extras",
+        "image": "assets/y_extras.png",
+        "description": " A myriad of structures, features, and vanilla+ content.",
+        "link": "https://www.curseforge.com/minecraft/mc-mods/yungs-extras"
+    }
+]
